@@ -68,7 +68,7 @@ This repository tracks notable **commercial managed blockchain platforms** and *
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a comprehensive list of open-source execution clients, consensus layers, validator software, oracle frameworks, and deployment automation tools sorted by **GitHub Star Count (Descending)**.
+Below is a comprehensive list of open-source execution clients, consensus layers, validator software, oracle frameworks, and deployment automation tools sorted by **GitHub Stars_Count (Descending)**.
 
 | Project & Repo 📦 | Tech Stack / License 🛠️ | Description & Use Case 🎯 |
 | :--- | :--- | :--- |
